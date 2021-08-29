@@ -14,4 +14,4 @@ https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EUVHNh0fz
 
 ดูตัวอย่าง Web App ที่เสร็จสมบูรณ์ที่นี่ : http://261207-lab6-finished.surge.sh/
 
-เมื่อ Deploy app เรียบร้อยแล้ว ให้ใส่ URL ที่นี่ : 
+เมื่อ Deploy app เรียบร้อยแล้ว ให้ใส่ URL ที่นี่ : http://lab6-2097-yanatib.surge.sh/
